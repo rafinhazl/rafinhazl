@@ -14,7 +14,7 @@ Meu nome é Rafael da Silva Barbosa. 🇧🇷
 
 - ### Meu e-mail para para contato é: 📧barbosa.rafael18@escola.pr.gov.br
 
-- 
+- ![](https://media.tenor.com/GOj9ZF_-ZOcAAAAC/cat.gif)
 
 <!--
 **rafinhazl/rafinhazl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
